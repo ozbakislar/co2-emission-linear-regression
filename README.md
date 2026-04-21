@@ -46,11 +46,7 @@ Das multiple lineare Regressionsmodell erwies sich als effizienter und wurde als
 
 
 
-* **Python**
-* **Pandas, NumPy**
-* **Matplotlib, Seaborn, Plotly**
-* **Scikit-learn**
-* **Yellowbrick**
+• Python • NumPy • Pandas • Matplotlib • Seaborn • Plotly • Scikit-learn • Yellowbrick • Jupyter Notebook
 
 
 
